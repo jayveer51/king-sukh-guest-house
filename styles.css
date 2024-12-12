@@ -95,7 +95,7 @@ body {
 }
 
 .header {
-  /* background-image: url("assets/header.jpg"); */
+  background-image: url("header.jpg"); 
   background-image: url("ayodhya.webp");
   background-position: center center;
   background-size: cover;

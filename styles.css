@@ -96,7 +96,7 @@ body {
 
 .header {
   /* background-image: url("assets/header.jpg"); */
-  background-image: url("images/ayodhya.webp");
+  background-image: url("ayodhya.webp");
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -325,7 +325,7 @@ nav {
 }
 
 .service {
-  background-image: url("images/palash.webp");
+  background-image: url("palash.webp");
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -427,7 +427,7 @@ nav {
     minmax(1rem, 1fr)
     minmax(0, var(--max-width))
     minmax(1rem, 1fr);
-  background-image: url("images/recep.jpg");
+  background-image: url("recep.jpg");
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
